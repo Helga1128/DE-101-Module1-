@@ -4,35 +4,38 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-0" value="sourse" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-230" y="10" width="120" height="40" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-0" value="sourse" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-710" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-1" value="Admin24 - заявки" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="70" width="80" height="80" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-1" value="Admin24 - заявки" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-2" value="google диск" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-2" value="google диск" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-3" value="ХХ&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(оценки, расписание, обр связь)&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-3" value="ХХ&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(оценки, расписание, обр связь)&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-4" value="storage" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="10" width="120" height="40" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-4" value="storage" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-460" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-5" value="business" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-5" value="business" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-240" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="90" width="120" height="170" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-480" y="100" width="160" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-7" value="ХХ&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(оценки, расписание, обр связь)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-7" value="ХХ&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(оценки, расписание, обр связь)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-240" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-9" value="1С - Бух учет (доходы и расходы)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-9" value="1С - Бух учет (доходы и расходы)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DMEv7p-Ip8hW6YbrMlME-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Raidix - Системы безопасности (камеры, сигнализация, датчики дыма)&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="430" width="80" height="80" as="geometry" />
+        <mxCell id="DMEv7p-Ip8hW6YbrMlME-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Raidix - Системы безопасности (камеры, сигнализация, датчики дыма)&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HLOmuXs0lFnXrC7f7iRq-1" value="ВК, inst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
